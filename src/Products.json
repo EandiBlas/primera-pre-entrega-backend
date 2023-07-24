@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Dove Shampoo",
+        "description": "Shampoo de ducha",
+        "price": 150,
+        "thumbnail": "None",
+        "code": 1,
+        "stock": 25
+    },
+    {
+        "id": 2,
+        "title": "Dove Jabón",
+        "description": "Jabón de ducha",
+        "price": 100,
+        "thumbnail": "None",
+        "code": 2,
+        "stock": 25
+    },
+    {
+        "id": 3,
+        "title": "Gum Cepillo de Dientes",
+        "description": "Cepillo de Dientes",
+        "price": 1250,
+        "thumbnail": "None",
+        "code": 3,
+        "stock": 100
+    },
+    {
+        "id": 4,
+        "title": "Sensodyne Blanqueador Extra Fresh",
+        "description": "Pasta Dental",
+        "price": 850,
+        "thumbnail": "None",
+        "code": 4,
+        "stock": 100
+    },
+    {
+        "id": 5,
+        "title": "Vix Toalla de Baño",
+        "description": "Toalla de baño",
+        "price": 3000,
+        "thumbnail": "None",
+        "code": 5,
+        "stock": 100
+    },
+    {
+        "id": 6,
+        "title": "Vix Toalla de Manos",
+        "description": "Toalla de manos",
+        "price": 1850,
+        "thumbnail": "None",
+        "code": 6,
+        "stock": 100
+    },
+    {
+        "id": 7,
+        "title": "Magistral Ultra Detergente",
+        "description": "Detergente 1.4L Limon",
+        "price": 1200,
+        "thumbnail": "None",
+        "code": 7,
+        "stock": 100
+    },
+    {
+        "id": 8,
+        "title": "Pañales Pampers Premium",
+        "description": "Care Medium 52un",
+        "price": 4125,
+        "thumbnail": "None",
+        "code": 8,
+        "stock": 100
+    },
+    {
+        "id": 9,
+        "title": "Desodorante Antitranspirante Rexona",
+        "description": "Extra Dry en aerosol 110 Ml",
+        "price": 785,
+        "thumbnail": "None",
+        "code": 9,
+        "stock": 100
+    },
+    {
+        "id": 10,
+        "title": "Algodón Estrella Familiar Clásico",
+        "description": "75 Gr",
+        "price": 275,
+        "thumbnail": "None",
+        "code": 10,
+        "stock": 100
+    }
+]
